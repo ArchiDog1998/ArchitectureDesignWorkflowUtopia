@@ -1,16 +1,23 @@
 
-- 开始
-    - [快速开始](quickstart.md)
-    - [创建参数电池](create-param.md)
-    - [设置导出](out-put.md)
+- 方案设计
+    - [输入输出](first_IO.md)
+    - [职能设定](first_role.md)
+    - [流程描述](first_role.md)
+    - [工具设计](first_tools)
+    
+- 初步设计
+  
+  - [输入输出](second_IO.md)
+  
+  - [职能设定](second_role.md)
+  - [流程描述](second_role.md)
+  - [工具设计](second_tools)
+  
+- 施工设计
 
-- 动画控制
-    - [时间线控制](time-line.md)
-    - [数值关键帧](value-key.md)
-    - [动画曲线](ease-func.md)
+    - [输入输出](third_IO.md)
+    - [职能设定](third_role.md)
+    - [流程描述](third_role.md)
+    - [工具设计](third_tools)
 
-- 相机控制
-    - [相机关键帧](camera-key.md)
-    - [相机路径](camera-curve.md)
-    - [速度曲线](speed-curve.md)
-    - [其他设置](camera-other.md)
+
